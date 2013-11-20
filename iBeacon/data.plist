@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Beacons</key>
+	<array>
+		<dict>
+			<key>identifier</key>
+			<string>com.bradsmithinc.myreigon.1</string>
+			<key>udid</key>
+			<string>23542266-18D1-4FE4-B4A1-23F8195B9D39</string>
+			<key>minor</key>
+			<string>1</string>
+			<key>major</key>
+			<string>1</string>
+		</dict>
+	</array>
+	<key>Locations</key>
+	<array>
+		<dict>
+			<key>lat</key>
+			<real>37.78175024</real>
+			<key>identifier</key>
+			<string>com.bradsmithinc.myreigon.2</string>
+			<key>lng</key>
+			<real>-122.40194161</real>
+			<key>radius</key>
+			<integer>10</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
